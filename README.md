@@ -38,9 +38,5 @@ This project not only highlights technical recommendations but also reflects my 
 
 > **Created by Jordan Butler**  
 > Cybersecurity Professional | SOC Operations | Threat Detection  
-> GitHub: [@jordanbutler2300](https://github.com/jordanbutler2300)
-```
 
----
-
-Let me know if you'd like a **shorter version** or one tailored for a portfolio-style GitHub repo!
+``
