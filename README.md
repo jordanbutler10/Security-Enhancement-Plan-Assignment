@@ -1,8 +1,3 @@
-Absolutely! Here's a professional and concise `README.md` you can include in your GitHub repository for the **Security Enhancement Plan**:
-
----
-
-```markdown
 # 🔐 Security Enhancement Plan – SecureTech Inc.
 
 ## Overview
